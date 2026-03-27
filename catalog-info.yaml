@@ -5,6 +5,13 @@ metadata:
   description: Sin descripción
   annotations:
     github.com/project-slug: crlsquilumba/challengekids
+    github.com/branch-count: "1"
+    github.com/has-gitflow: "false"
+    github.com/default-branch: "main"
+  links:
+    - url: https://github.com/crlsquilumba/challengekids/tree/main
+      title: "✅ main — producción"
+      icon: github
 spec:
   type: library
   lifecycle: experimental
